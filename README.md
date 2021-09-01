@@ -1,2 +1,4 @@
 # doodle
-First repository on GitHub
+My first repository on GitHub
+
+Hope all my projects will be successful!
